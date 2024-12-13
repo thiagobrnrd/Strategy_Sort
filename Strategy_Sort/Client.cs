@@ -5,6 +5,8 @@ public class Client
 {
     public static void Main()
     {
+        //Classe Program.
+
         Stopwatch sw = Stopwatch.StartNew();
         sw.Start();
 
